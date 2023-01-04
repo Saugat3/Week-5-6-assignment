@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Arvo:ital,wght@0,400;0,700;1,400&family=Inter:wght@900&display=swap');
+body{
+    background-color: rgb(122, 10, 10);
+    height: 100%;
+    width: 100%;
+}
+.title{
+    text-align: center;
+    margin-top: 1em;
+    font-family: 'Inter', sans-serif;
+    font-size: 3em;
+    color: rgb(255, 255, 255);
+}
+.flexbox{
+    display: flex;
+}
+
+.left{
+    margin-top: 2em;
+    margin-right: 2em;
+    margin-left: 1.5em;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Inter', sans-serif;
+
+}
+.center{
+    margin-top: 2em;
+    margin-right: 2em;
+    margin-left: 2em;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Inter', sans-serif;
+}
+.right{
+    margin-top: 2em;
+    text-align: center;
+    color: aliceblue;
+    margin-left: 2em;
+    font-family: 'Inter', sans-serif;
+}
