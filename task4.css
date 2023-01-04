@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+body{
+    background-color: azure;
+    
+}
+.flexbox{
+    display: flex;
+}
+.photo{
+    width: 50vw;
+    height: 53vh;
+}
+.text{
+    text-align: left;
+    padding-left: 5ch;
+    padding-top: 3ch;
+    font-family: 'Fredoka One', cursive;
+    font-size: 2em;
+    width: 50%;
+    color: rgb(72, 174, 140);
+}
+.sub{
+    padding-left: ch;
+    text-align: left;
+    font-family: 'Alata', sans-serif;
+    color:cadetblue;
+
+}
