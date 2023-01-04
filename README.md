@@ -1,0 +1,2 @@
+# Week-5-6-assignment
+HERE ARE ALL 5 DESIGNS COMPLETE FOR WEEK 5 AND 6.
